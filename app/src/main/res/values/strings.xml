@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Travelling Dealer</string>
+    <string name="problem_desc">In this example we’re going to help a dealer in order to reduce the cost of his/her sale operation.\n\nAs you may notice, image represents the customers (8 units) and a factory. Dealer should travel to his/her customers by using the shortest path. The dealer must visit the factory aer every customer visitation.\n\nWe need to calculate the total distance that dealer need to travel in order to visit each customer.\n\nYou should implement your own data structure(LinkedList). You can implement it either in Kotlin or Java.\n\nStore each shortest path in your own Node. Then, by implementing the “sumOfNodes” method you could solve the problem. At the end clean all nodes by implementing “deleteNode” method.\n</string>
+</resources>
